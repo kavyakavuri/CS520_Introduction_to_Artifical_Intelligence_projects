@@ -1,0 +1,25 @@
+Avg no. of actions vs agents
+27218.5,Agent6
+22183.76,Agent7
+11499.5,Agent8
+
+Avg of movements/examinations vs agents
+5.8677324178435,Agent6
+5.33372683956511,Agent7
+3.38840002755402,Agent8
+
+Avg no. of examinations in flat, Avg. no of examinations in hilly, Avg. no. of examinations in forest vs Agents
+Agent 6
+flat - 755.66
+hilly - 661.02
+forest - 1686.07
+
+Agent 7
+flat - 901.51
+hilly - 783.54
+forest - 1171.63
+
+Agent 8
+flat - 907.79
+hilly - 813.36
+forest - 1159.39
